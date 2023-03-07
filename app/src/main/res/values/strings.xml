@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pythagorean theorem</string>
+    <string name="title">Calculate \"c\"</string>
+    <string name="result_info">Result:&#160;</string>
+    <string name="result">Result</string>
+    <string name="input_a">Enter value \"a\"</string>
+    <string name="input_b">Enter value \"b\"</string>
+</resources>
